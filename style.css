@@ -1,0 +1,35 @@
+.main-block {
+    width: 1022px;
+    height: 1022px;
+    margin: 50px auto;
+    box-sizing: border-box;
+}
+
+.block {
+    width: 100px;
+    height: 100px;
+    float: left;
+    text-align: center;
+    font-size: 3rem;
+    
+}
+.black {
+    background: black;
+    border: 1px solid white;
+    color: white;
+    font-size: 3rem;
+    margin: 0 auto;
+    text-align: center;
+}
+.white {
+    background: white;
+    border: 1px solid black;
+    color: black;
+}
+
+.legend {
+    background: #eee;
+    border: 1px solid #eee;
+    font-size: 3rem;
+    
+}
