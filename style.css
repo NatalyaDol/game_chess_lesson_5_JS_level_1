@@ -14,9 +14,9 @@
     
 }
 .black {
-    background: black;
+    background: rgba(0, 0, 0, 0.532);
     border: 1px solid white;
-    color: white;
+    /* color: white; */
     font-size: 3rem;
     margin: 0 auto;
     text-align: center;
@@ -24,7 +24,7 @@
 .white {
     background: white;
     border: 1px solid black;
-    color: black;
+    /* color: black; */
 }
 
 .legend {
