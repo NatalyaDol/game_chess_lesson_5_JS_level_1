@@ -10,26 +10,24 @@
     height: 100px;
     float: left;
     text-align: center;
-    font-size: 3rem;
+    font-size: 5rem;
+    line-height: 1.2;
     
 }
 .black {
     background: rgba(0, 0, 0, 0.532);
     border: 1px solid white;
-    /* color: white; */
-    font-size: 3rem;
-    margin: 0 auto;
     text-align: center;
 }
 .white {
     background: white;
     border: 1px solid black;
-    /* color: black; */
 }
 
 .legend {
     background: #eee;
     border: 1px solid #eee;
     font-size: 3rem;
+    
     
 }
